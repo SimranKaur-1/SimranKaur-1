@@ -1,17 +1,17 @@
 # 🌌 Simran Kaur | Space-Tech Engineer in Progress 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B3D91,100:000000&height=260&text=Simran%20Kaur&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB6C1,100:000000&height=260&text=Simran%20Kaur&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=0B3D91&center=true&vCenter=true&width=800&lines=Electrical+%26+Electronics+Engineer;Future+ISRO+Scientist+🛰️;IoT+%7C+Robotics+%7C+Photonics;Building+Technology+Beyond+Earth"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Electrical+%26+Electronics+Engineer;Future+ISRO+Scientist+🛰️;IoT+%7C+Robotics+%7C+Photonics;Building+Technology+Beyond+Earth"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Space%20Technology-0B3D91?style=for-the-badge&logo=spacex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Space%20Technology-FFB6C1?style=for-the-badge&logo=spacex&logoColor=black"/>
   <img src="https://img.shields.io/badge/Core-Electronics-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-IoT%20%26%20Robotics-0B3D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects-IoT%20%26%20Robotics-FFB6C1?style=for-the-badge"/>
 </p>
 
 ---
@@ -117,7 +117,7 @@ Currently building projects combining **electronics + IoT + real-world problem s
 
 <p align="center">
   <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B3D91?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
@@ -126,7 +126,7 @@ Currently building projects combining **electronics + IoT + real-world problem s
 ## 🧬 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0B3D91&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FFB6C1&style=flat"/>
 </p>
 
 ---
@@ -140,7 +140,7 @@ Currently building projects combining **electronics + IoT + real-world problem s
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0B3D91&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB6C1&height=140&section=footer"/>
 </p>
 
 ---
