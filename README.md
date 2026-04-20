@@ -1,17 +1,17 @@
-# 🌌 Simran Kaur | Space-Tech Engineer in Progress 🚀
+# 🌌 Simran Kaur | Space-Tech Engineer 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB6C1,100:000000&height=260&text=Simran%20Kaur&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF69B4,100:000000&height=260&text=Simran%20Kaur&fontSize=50&fontColor=ffffff&animation=fadeIn&stroke=FF69B4&strokeWidth=2"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=FFB6C1&center=true&vCenter=true&width=800&lines=Electrical+%26+Electronics+Engineer;Future+ISRO+Scientist+🛰️;IoT+%7C+Robotics+%7C+Photonics;Building+Technology+Beyond+Earth"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=FF69B4&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineer;Future+ISRO+Scientist+🛰️;IoT+%7C+Robotics+%7C+Photonics;Building+Technology+Beyond+Earth"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Space%20Technology-FFB6C1?style=for-the-badge&logo=spacex&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Core-Electronics-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-IoT%20%26%20Robotics-FFB6C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Space-Tech-FF69B4?style=for-the-badge&logo=spacex&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Electronics-Core-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT%20%26%20Robotics-FF69B4?style=for-the-badge"/>
 </p>
 
 ---
@@ -20,26 +20,26 @@
 
 ```diff
 + Electrical & Electronics Engineering Student
-+ Strong Interest: Space Tech, Defense Tech, Embedded Systems
-+ Dream Roles: ISRO Scientist | Astronaut | Flying Forces
-+ Approach: Build → Break → Improve → Repeat
++ Passion: Space Tech, Embedded Systems, IoT
++ Dream: ISRO Scientist | Astronaut | Flying Forces
++ Mindset: Build → Break → Improve → Repeat
 ```
 
-I focus on **hands-on engineering**, not just theory.  
-Currently building projects combining **electronics + IoT + real-world problem solving**.
+I focus on **real-world engineering + hands-on projects**, not just theory.  
+Currently building systems that combine **electronics + automation + intelligence**.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Mission Control (Current Focus)
 
 - 🔧 Arduino & Embedded Systems  
 - 💻 C Programming + Python  
 - 🌌 Photonics for Defense & Space  
-- 🎯 Preparing for ISRO / AFCAT  
+- 🎯 ISRO / AFCAT Preparation  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,arduino,git,github,vscode&theme=dark"/>
@@ -49,13 +49,21 @@ Currently building projects combining **electronics + IoT + real-world problem s
 
 ## 🔬 Featured Projects
 
-| Project | Description |
-|--------|------------|
-| 🌡️ IoT Temperature Monitor | Real-time sensor-based monitoring system |
-| 🚦 Smart Traffic System | Automated signal control using embedded logic |
-| 📡 Li-Fi Communication | Data transmission using light waves |
-| 🤖 Robotic Arm | Precision-based movement system |
-| 🌍 AQI Monitoring Model | Environmental sensing with LCD display |
+| 🚀 Project | 💡 Description |
+|----------|--------------|
+| 🌡️ IoT Monitor | Real-time temp & humidity system |
+| 🚦 Smart Traffic | Automated signal system |
+| 📡 Li-Fi System | Data via light waves |
+| 🤖 Robotic Arm | Precision automation |
+| 🌍 AQI Monitor | Air quality display system |
+
+---
+
+## 🛰️ Astronaut Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btZ3T6y3Jtm2V8I/giphy.gif" width="250"/>
+</p>
 
 ---
 
@@ -78,46 +86,44 @@ Currently building projects combining **electronics + IoT + real-world problem s
 + Advanced Embedded Systems
 + Python for Engineering Applications
 + Control Systems & Power Systems
-+ Basics of Aerodynamics
++ Aerodynamics Basics
 + Communication Systems
 ```
 
 ---
 
-## 🎯 Goals
+## 🎯 Target Locked
 
 ```diff
-+ Crack ISRO / Space Research Opportunities
-+ Build impactful real-world engineering solutions
-+ Master Electronics + Programming combination
-+ Contribute to Space & Defense Technology
++ Work with ISRO 🛰️
++ Build impactful tech systems
++ Master Electronics + Programming
++ Contribute to Space & Defense Innovation
 ```
 
 ---
 
 ## 🛰️ Future Missions
 
-- 🔭 DIY Telescope Project  
-- 🤖 Autonomous Arduino Robot  
-- 🌌 Space-Tech + IoT Integrated Systems  
+- 🔭 DIY Telescope  
+- 🤖 Autonomous Robot  
+- 🌌 Space-Tech IoT Systems  
 
 ---
 
-## ⚡ Fun Zone
+## ⚡ Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-> Engineering is not just solving problems — it's creating possibilities.
-
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
   <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
@@ -126,7 +132,7 @@ Currently building projects combining **electronics + IoT + real-world problem s
 ## 🧬 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FFB6C1&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FF69B4&style=flat"/>
 </p>
 
 ---
@@ -140,11 +146,11 @@ Currently building projects combining **electronics + IoT + real-world problem s
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFB6C1&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF69B4&height=150&section=footer"/>
 </p>
 
 ---
 
 ## ⭐ Support
 
-If you like my work, give a ⭐ and follow — building tech that goes beyond Earth 🚀
+If you like my work, give a ⭐ — building tech that goes beyond Earth 🚀
