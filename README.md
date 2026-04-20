@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=FF69B4&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineer;Future+ISRO+Scientist+🛰️;IoT+%7C+Robotics+%7C+Photonics;Building+Technology+Beyond+Earth"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=FF69B4&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineer;Future+ISRO+Scientist+🛰️;IoT+%7C+Robotics+%7C+Photonics;Embedded+Systems+%26+Circuit+Design"/>
 </p>
 
 <p align="center">
@@ -25,12 +25,9 @@
 + Mindset: Build → Break → Improve → Repeat
 ```
 
-I focus on **real-world engineering + hands-on projects**, not just theory.  
-Currently building systems that combine **electronics + automation + intelligence**.
-
 ---
 
-## 🚀 Mission Control (Current Focus)
+## 🚀 Mission Control
 
 - 🔧 Arduino & Embedded Systems  
 - 💻 C Programming + Python  
@@ -44,6 +41,14 @@ Currently building systems that combine **electronics + automation + intelligenc
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,arduino,git,github,vscode&theme=dark"/>
 </p>
+
+### ⚡ Electronics & EDA Tools
+
+- 🔌 Circuit Design & Analysis  
+- 🧩 PCB Design (Basics)  
+- 🛠️ LTspice / Proteus (Simulation)  
+- 🖥️ Multisim / KiCad (Learning Stage)  
+- 🔍 Basic Signal & System Understanding  
 
 ---
 
@@ -88,6 +93,7 @@ Currently building systems that combine **electronics + automation + intelligenc
 + Control Systems & Power Systems
 + Aerodynamics Basics
 + Communication Systems
++ Advanced Circuit Simulation (EDA Tools)
 ```
 
 ---
@@ -98,6 +104,7 @@ Currently building systems that combine **electronics + automation + intelligenc
 + Work with ISRO 🛰️
 + Build impactful tech systems
 + Master Electronics + Programming
++ Strengthen Circuit Design & Simulation Skills
 + Contribute to Space & Defense Innovation
 ```
 
@@ -108,14 +115,6 @@ Currently building systems that combine **electronics + automation + intelligenc
 - 🔭 DIY Telescope  
 - 🤖 Autonomous Robot  
 - 🌌 Space-Tech IoT Systems  
-
----
-
-## ⚡ Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
 
 ---
 
@@ -133,14 +132,6 @@ Currently building systems that combine **electronics + automation + intelligenc
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FF69B4&style=flat"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
